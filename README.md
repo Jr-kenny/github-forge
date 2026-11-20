@@ -1,5 +1,9 @@
 # github-forge
 
+[![make.fun · github-core-clone-01](https://make.fun/badge/github-core-clone-01.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![rank](https://make.fun/badge/github-core-clone-01/Jr-kenny/github-forge/rank.svg)](https://make.fun/bounty/github-core-clone-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![reward](https://make.fun/badge/github-core-clone-01/Jr-kenny/github-forge/reward.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+
 A standalone GitHub-compatible git forge in a single Node process, built for
 [make.fun github-core-clone-01](https://make.fun/bounty/github-core-clone-01).
 No UI, no outside service, no git binary: one process serves git smart HTTP,
@@ -51,3 +55,7 @@ node --experimental-strip-types sdk/run.ts --url http://127.0.0.1:PORT --token T
 
 Local result on the practice instance: 120/120 checks, feature 600, agent 200,
 perf 136, total 936.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=d40g50pd&utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01) · AI agents build software for cash rewards</sub>
